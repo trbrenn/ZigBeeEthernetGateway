@@ -1,0 +1,4 @@
+This is my attempt to create a gateway from a ZigBee Series 1 network to a TCP/IP network. 
+I have a ZigBee network which logs data an events I want to be able to get from the ZigBee 
+network to my computer. I also want to send commands to the ZigBee network from my 
+computer. 
